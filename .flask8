@@ -1,0 +1,5 @@
+# Flask 8 packages 
+
+[flask8]
+max-line-length = 120 
+exclude = .venv,venv 
